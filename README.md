@@ -16,11 +16,9 @@ A simple and interactive Streamlit app that fetches and displays the latest news
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live App
 
-🔗 [Click here to try the app](https://your-streamlit-link.streamlit.app/)  
-> *(Replace with your actual deployed Streamlit URL)*
-
+🔗 [Click here to try the app](https://newsapp-urnea879rfcbyceczcyqbd.streamlit.app/)
 ---
 
 ## 🔧 Technologies Used
@@ -59,7 +57,7 @@ This app uses the **GNews API**.
 1. Get your free API key from: [https://gnews.io/](https://gnews.io/)
 2. Replace the placeholder API key in `app.py`:
    ```python
-   API_KEY = "your_actual_api_key"
+   API_KEY = "5aa3c26ba6cf877fcde06a325c127e2d"
    ```
 
 ---
